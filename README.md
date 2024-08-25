@@ -42,7 +42,5 @@ This repo will have a collection of links from various sources in open Internet 
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Devops</h1>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Software Testing</h1>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Python</h1>
-<h1 style="color:blue; text-decoration: underline; font-weight: bold;">Product Lifecycle Management</h1>
-<h1 style="color:blue; text-decoration: underline; font-weight: bold;">Computer Aided Design</h1>
 
 
