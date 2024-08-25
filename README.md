@@ -14,6 +14,9 @@ This repo will have a collection of links from various sources in open Internet 
     <p>
       <a href="https://www.mongodb.com/resources/compare/cassandra-vs-mongodb" target="_blank" style="color:blue; text-decoration: none;">Cassandra Vs Mongo</a>
     </p>
+    <p>
+      <a href="https://www.elastic.co/blog/vector-database-vs-graph-database" target="_blank" style="color:blue; text-decoration: none;">Graph Vs Vector</a>
+    </p>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Containerization</h1>
     <p>
       <a href="https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker" target="_blank" style="color:blue; text-decoration: none;">Docker Vs Kubernetes</a>
