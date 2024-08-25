@@ -1,7 +1,7 @@
 # TechDiffoPedia
-TechDiffopedia offers clear, concise explanations of fundamental differences between computer science concepts. This repository aims to demystify technical terminology and enhance understanding of key distinctions in the field.
+TechDiffopedia provides clear and concise explanations of the fundamental differences between key computer science concepts. This repository is designed to demystify technical terminology and enhance understanding by highlighting essential distinctions in the field. It aggregates links from various reputable sources across the internet, all in one convenient location.
 
-This repo will have a collection of links from various sources in open Internet and aggregate at one single place
+
 
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Network</h1>
 <p>
