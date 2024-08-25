@@ -8,6 +8,10 @@ This repo will have a collection of links from various sources in open Internet 
     <a href="https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/" target="_blank" style="color:blue; text-decoration: none;">Latency Vs Throughput</a>
 </p>
 <p>
+    <a href="https://www.indeed.com/career-advice/career-development/throughput-vs-bandwidth" target="_blank" style="color:blue; text-decoration: none;">Througput Vs Bandwidth</a>
+</p>
+
+<p>
     <a href="https://www.spiceworks.com/tech/networking/articles/tcp-vs-udp/" target="_blank" style="color:blue; text-decoration: none;">TCP Vs UDP</a>
 </p>
 
