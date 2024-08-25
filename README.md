@@ -8,8 +8,12 @@ This repo will have a collection of links from various sources in open Internet 
     
     
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Database</h1>
+    <p>
       <a href="https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/" target="_blank" style="color:blue; text-decoration: none;">Row Vs Column(ar) database</a>
+    </p>
+    <p>
       <a href="https://www.mongodb.com/resources/compare/cassandra-vs-mongodb" target="_blank" style="color:blue; text-decoration: none;">Cassandra Vs Mongo</a>
+    </p>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Containerization</h1>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Product Lifecycle Management</h1>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Computer Aided Design</h1>
