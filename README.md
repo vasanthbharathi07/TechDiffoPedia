@@ -4,9 +4,9 @@ TechDiffopedia offers clear, concise explanations of fundamental differences bet
 This repo will have a collection of links from various sources in open Internet and aggregate at one single place
 
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Network</h1>
+<p>
     <a href="https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/" target="_blank" style="color:blue; text-decoration: none;">Latency Vs Throughput</a>
-    
-    
+</p>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Database</h1>
     <p>
       <a href="https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/" target="_blank" style="color:blue; text-decoration: none;">Row Vs Column(ar)</a>
@@ -24,7 +24,6 @@ This repo will have a collection of links from various sources in open Internet 
     <p>
       <a href="https://www.redhat.com/en/blog/kubernetes-ingress-vs-openshift-route" target="_blank" style="color:blue; text-decoration: none;">Kubernetes Ingress Vs Openshift Route</a>
     </p>
-    
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Product Lifecycle Management</h1>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Computer Aided Design</h1>
 
