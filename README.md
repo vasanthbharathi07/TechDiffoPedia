@@ -7,6 +7,10 @@ This repo will have a collection of links from various sources in open Internet 
 <p>
     <a href="https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/" target="_blank" style="color:blue; text-decoration: none;">Latency Vs Throughput</a>
 </p>
+<p>
+    <a href="https://www.spiceworks.com/tech/networking/articles/tcp-vs-udp/" target="_blank" style="color:blue; text-decoration: none;">TCP Vs UDP</a>
+</p>
+
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Database</h1>
     <p>
       <a href="https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/" target="_blank" style="color:blue; text-decoration: none;">Row Vs Column(ar)</a>
