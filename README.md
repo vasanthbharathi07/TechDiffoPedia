@@ -45,5 +45,9 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
     </p>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Software Testing</h1>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Python</h1>
+   <p>
+      <a href="https://www.pullrequest.com/blog/moving-away-from-requirements-txt-for-more-secure-python-dependencies/" target="_blank" style="color:blue; text-decoration: none;">Pip Vs Poetry</a>
+    </p>
+
 
 
