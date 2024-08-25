@@ -16,8 +16,15 @@ This repo will have a collection of links from various sources in open Internet 
     </p>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Containerization</h1>
     <p>
+      <a href="https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker" target="_blank" style="color:blue; text-decoration: none;">Docker Vs Kubernetes</a>
+    </p>
+    <p>
       <a href="https://medium.com/@michael.vittrup.larsen/dockerfiles-vs-cloud-native-buildpacks-8acf8149dea1" target="_blank" style="color:blue; text-decoration: none;">Dockerfile vs Buildpacks</a>
     </p>
+    <p>
+      <a href="https://www.redhat.com/en/blog/kubernetes-ingress-vs-openshift-route" target="_blank" style="color:blue; text-decoration: none;">Kubernetes Ingress Vs Openshift Route</a>
+    </p>
+    
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Product Lifecycle Management</h1>
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Computer Aided Design</h1>
 
