@@ -59,6 +59,24 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
    <p>
       <a href="https://www.pullrequest.com/blog/moving-away-from-requirements-txt-for-more-secure-python-dependencies/" target="_blank" style="color:blue; text-decoration: none;">Pip Vs Poetry</a>
     </p>
-
+<h1 style="color:blue; text-decoration: underline; font-weight: bold;">React</h1>
+   <p>
+      <a href="https://www.keitaro.com/insights/2023/07/12/dom-vs-virtual-dom-understanding-the-differences/" target="_blank" style="color:blue; text-decoration: none;">Real DOM Vs Virtual DOM</a>
+   </p>
+   <p>
+      <a href="https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/" target="_blank" style="color:blue; text-decoration: none;">Class Vs Functional Components</a>
+   </p>
+   <p>
+      <a href="https://dev.to/ruppysuppy/redux-vs-context-api-when-to-use-them-4k3p" target="_blank" style="color:blue; text-decoration: none;">Context API vs Redux</a>
+   </p>
+   <p>
+      <a href="https://blog.logrocket.com/react-memo-vs-usememo/" target="_blank" style="color:blue; text-decoration: none;">React.Memo Vs useMemo</a>
+   </p>
+   <p>
+      <a href="https://blog.saeloun.com/2023/03/30/when-to-use-usestate-vs-usereducer/" target="_blank" style="color:blue; text-decoration: none;">useState Vs UseReducer</a>
+   </p>
+   
+   
+    
 
 
