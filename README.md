@@ -59,6 +59,20 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
    <p>
       <a href="https://www.pullrequest.com/blog/moving-away-from-requirements-txt-for-more-secure-python-dependencies/" target="_blank" style="color:blue; text-decoration: none;">Pip Vs Poetry</a>
     </p>
+    <p>
+      <a href="https://www.linkedin.com/pulse/multithreading-vs-multiprocessing-asyncio-code-examples-kaushik-yxgjc/" target="_blank" style="color:blue; text-decoration: none;">Multithreading Vs Multiprocessing Vs Asyncio</a>
+    </p>
+    <p>
+      <a href="https://medium.com/@sumeetsarkar/trinity-of-context-managers-generators-decorators-4809a991c76b" target="_blank" style="color:blue; text-decoration: none;">Context Manager Vs Generators Vs Decorators</a>
+    </p>
+    <p>
+      <a href="https://superfastpython.com/multiprocessing-pool-vs-processpoolexecutor/" target="_blank" style="color:blue; text-decoration: none;">Pool Vs ProcessPoolExecutor </a>
+    </p>
+    <p>
+      <a href="https://medium.com/@ashkangoleh/pydantic-vs-marshmallow-a-comprehensive-comparison-77abe2b3e088" target="_blank" style="color:blue; text-decoration: none;">Pydantics Vs Marshmellow</a>
+    </p>
+    
+    
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">React</h1>
    <p>
       <a href="https://www.keitaro.com/insights/2023/07/12/dom-vs-virtual-dom-understanding-the-differences/" target="_blank" style="color:blue; text-decoration: none;">Real DOM Vs Virtual DOM</a>
