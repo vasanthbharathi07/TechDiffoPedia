@@ -55,9 +55,6 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
       <a href="https://spacelift.io/blog/statefulset-vs-deployment" target="_blank" style="color:blue; text-decoration: none;">Statefulset Vs Deployment</a>
     </p>
     <p>
-      <a href="https://spacelift.io/blog/statefulset-vs-deployment" target="_blank" style="color:blue; text-decoration: none;">Statefulset Vs Deployment</a>
-    </p>
-    <p>
       <a href="https://medium.com/@danielbenhayoun/understanding-kubernetes-namespaces-and-clusters-3065e0602df7#:~:text=In%20Kubernetes%2C%20a%20cluster%20is,for%20the%20names%20of%20resources" target="_blank" style="color:blue; text-decoration: none;">Namespace Vs Clusters</a>
     </p>
     
