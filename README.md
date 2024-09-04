@@ -80,6 +80,10 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
      <p>
       <a href="https://medium.com/front-end-weekly/playwright-vs-puppeteer-choosing-the-right-browser-automation-tool-in-2024-d46d2cbadf71" target="_blank" style="color:blue; text-decoration: none;">Puppeteer Vs Playwright</a>
     </p>
+    <p>
+      <a href="https://medium.com/@matiasglessi/mock-stub-spy-and-other-test-doubles-a1869265ac47" target="_blank" style="color:blue; text-decoration: none;">Mock Vs Stub Vs Spy</a>
+    </p>
+    
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Python</h1>
    <p>
       <a href="https://www.pullrequest.com/blog/moving-away-from-requirements-txt-for-more-secure-python-dependencies/" target="_blank" style="color:blue; text-decoration: none;">Pip Vs Poetry</a>
