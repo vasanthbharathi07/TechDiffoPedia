@@ -39,6 +39,28 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
     <p>
       <a href="https://www.redhat.com/en/blog/kubernetes-ingress-vs-openshift-route" target="_blank" style="color:blue; text-decoration: none;">Kubernetes Ingress Vs Openshift Route</a>
     </p>
+    <p>
+      <a href="https://betterstack.com/community/guides/scaling-docker/docker-swarm-kubernetes/" target="_blank" style="color:blue; text-decoration: none;">Docker Swarm Vs Kubernetes</a>
+    </p>
+    <p>
+      <a href="https://medium.com/container-talks/understand-cmd-and-entrypoint-differences-in-docker-d11105cc5454" target="_blank" style="color:blue; text-decoration: none;">CMD vs Entrypoint</a>
+    </p>
+    <p>
+      <a href="https://digitalvarys.com/docker-volume-vs-bind-mounts-vs-tmpfs-mount/" target="_blank" style="color:blue; text-decoration: none;">Volume Vs Bind Mounts Vs tmpfs mount</a>
+    </p>
+    <p>
+      <a href="https://devtodevops.com/docker-network-overlay-vs-bridge/" target="_blank" style="color:blue; text-decoration: none;">Docker Overlay Vs Bridge Network</a>
+    </p>
+    <p>
+      <a href="https://spacelift.io/blog/statefulset-vs-deployment" target="_blank" style="color:blue; text-decoration: none;">Statefulset Vs Deployment</a>
+    </p>
+    <p>
+      <a href="https://spacelift.io/blog/statefulset-vs-deployment" target="_blank" style="color:blue; text-decoration: none;">Statefulset Vs Deployment</a>
+    </p>
+    <p>
+      <a href="https://medium.com/@danielbenhayoun/understanding-kubernetes-namespaces-and-clusters-3065e0602df7#:~:text=In%20Kubernetes%2C%20a%20cluster%20is,for%20the%20names%20of%20resources" target="_blank" style="color:blue; text-decoration: none;">Namespace Vs Clusters</a>
+    </p>
+    
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Cloud</h1>
     <p>
       <a href="https://cloud.google.com/learn/paas-vs-iaas-vs-saas" target="_blank" style="color:blue; text-decoration: none;">Iaas Vs Paas Vs Caas Vs Saas</a>
@@ -49,6 +71,9 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
     </p>
      <p>
       <a href="https://circleci.com/blog/canary-vs-blue-green-downtime/" target="_blank" style="color:blue; text-decoration: none;">Blue green Vs Canary deployment</a>
+    </p>
+    <p>
+      <a href="https://spacelift.io/blog/ansible-vs-terraform" target="_blank" style="color:blue; text-decoration: none;">Ansible Vs Terraform</a>
     </p>
     
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Software Testing</h1>
