@@ -57,6 +57,10 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
     <p>
       <a href="https://medium.com/@danielbenhayoun/understanding-kubernetes-namespaces-and-clusters-3065e0602df7#:~:text=In%20Kubernetes%2C%20a%20cluster%20is,for%20the%20names%20of%20resources" target="_blank" style="color:blue; text-decoration: none;">Namespace Vs Clusters</a>
     </p>
+    <p>
+      <a href="https://www.baeldung.com/ops/kubernetes-pv-vs-pvc" target="_blank" style="color:blue; text-decoration: none;">Persistent Volume Vs Volume Claims</a>
+    </p>
+    
     
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Cloud</h1>
     <p>
