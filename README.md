@@ -101,6 +101,14 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
     <p>
       <a href="https://medium.com/@ashkangoleh/pydantic-vs-marshmallow-a-comprehensive-comparison-77abe2b3e088" target="_blank" style="color:blue; text-decoration: none;">Pydantics Vs Marshmellow</a>
     </p>
+    <p>
+      <a href="https://switowski.com/blog/for-loop-vs-list-comprehension/" target="_blank" style="color:blue; text-decoration: none;">For Loop Vs List Comprehension</a>
+    </p>
+    <p>
+      <a href="https://stephantul.github.io/python/2019/07/20/product/" target="_blank" style="color:blue; text-decoration: none;">Itertools Vs Nested For Loop</a>
+    </p>
+    
+    
     
     
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">React</h1>
