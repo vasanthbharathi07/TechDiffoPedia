@@ -14,6 +14,13 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
 <p>
     <a href="https://www.spiceworks.com/tech/networking/articles/tcp-vs-udp/" target="_blank" style="color:blue; text-decoration: none;">TCP Vs UDP</a>
 </p>
+<p>
+    <a href="https://aws.amazon.com/compare/the-difference-between-ipv4-and-ipv6/?trk=faq_card" target="_blank" style="color:blue; text-decoration: none;">IPV4 Vs IPV6</a>
+</p>
+<p>
+    <a href="https://aws.amazon.com/compare/the-difference-between-proxy-and-vpn/?trk=faq_card" target="_blank" style="color:blue; text-decoration: none;">Proxy Vs VPN</a>
+</p>
+
 
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Database</h1>
     <p>
@@ -28,6 +35,10 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
     <p>
       <a href="https://www.imaginarycloud.com/blog/redis-vs-memcached" target="_blank" style="color:blue; text-decoration: none;">Redis Vs Memcached</a>
     </p>
+    <p>
+      <a href="https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/?trk=faq_card" target="_blank" style="color:blue; text-decoration: none;">ACID Vs BASE</a>
+    </p>
+    
     
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Containerization</h1>
     <p>
