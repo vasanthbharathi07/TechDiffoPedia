@@ -119,9 +119,6 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
       <a href="https://stephantul.github.io/python/2019/07/20/product/" target="_blank" style="color:blue; text-decoration: none;">Itertools Vs Nested For Loop</a>
     </p>
     
-    
-    
-    
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">React</h1>
    <p>
       <a href="https://www.keitaro.com/insights/2023/07/12/dom-vs-virtual-dom-understanding-the-differences/" target="_blank" style="color:blue; text-decoration: none;">Real DOM Vs Virtual DOM</a>
@@ -138,7 +135,31 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
    <p>
       <a href="https://blog.saeloun.com/2023/03/30/when-to-use-usestate-vs-usereducer/" target="_blank" style="color:blue; text-decoration: none;">useState Vs UseReducer</a>
    </p>
-   
+
+<h1 style="color:blue; text-decoration: underline; font-weight: bold;">Git</h1>
+ <p>
+      <a href="https://www.theserverside.com/answer/Git-fork-vs-clone-Whats-the-difference#:~:text=A%20fork%20creates%20a%20completely,synchronize%20with%20the%20target%20repository." target="_blank" style="color:blue; text-decoration: none;">Git Clone Vs Git Fork</a>
+ </p>
+ <p>
+      <a href="https://www.atlassian.com/git/tutorials/merging-vs-rebasing" target="_blank" style="color:blue; text-decoration: none;">Git Merge Vs Git Rebase</a>
+ </p>
+ <p>
+      <a href="https://www.gitkraken.com/learn/git/problems/git-pull-vs-fetch" target="_blank" style="color:blue; text-decoration: none;">Git Pull Vs Git Fetch</a>
+ </p>
+ <p>
+      <a href="https://kodekloud.com/blog/git-switch-vs-checkout/" target="_blank" style="color:blue; text-decoration: none;">Git Switch Vs Git Checkout</a>
+ </p>
+ <p>
+      <a href="https://www.gitkraken.com/learn/git/git-worktree" target="_blank" style="color:blue; text-decoration: none;">Git Worktree Vs Git Stash</a>
+ </p>
+ <p>
+      <a href="https://circleci.com/blog/git-tags-vs-branches/" target="_blank" style="color:blue; text-decoration: none;">Git Tag Vs Git Branch</a>
+ </p>
+ 
+ 
+ 
+ 
+ 
    
     
 
