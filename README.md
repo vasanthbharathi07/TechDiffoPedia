@@ -38,6 +38,17 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
     <p>
       <a href="https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/?trk=faq_card" target="_blank" style="color:blue; text-decoration: none;">ACID Vs BASE</a>
     </p>
+    <p>
+      <a href="https://www.pingcap.com/article/sharding-vs-partitioning-a-detailed-comparison/" target="_blank" style="color:blue; text-decoration: none;">Sharding Vs Partitioning</a>
+    </p>
+    <p>
+      <a href="https://shalinichandr.medium.com/sql-view-and-stored-procedure-56b853fc8e3a" target="_blank" style="color:blue; text-decoration: none;">SQL View Vs Stored Procedure</a>
+    </p>
+    <p>
+      <a href="https://naveen-metta.medium.com/navigating-the-database-landscape-jdbc-vs-orm-92e24db1fbec" target="_blank" style="color:blue; text-decoration: none;">JDBC Vs ORM</a>
+    </p>
+    
+    
     
     
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Containerization</h1>
