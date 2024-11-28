@@ -20,6 +20,9 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
 <p>
     <a href="https://aws.amazon.com/compare/the-difference-between-proxy-and-vpn/?trk=faq_card" target="_blank" style="color:blue; text-decoration: none;">Proxy Vs VPN</a>
 </p>
+<p>
+    <a href="https://www.snaplogic.com/blog/data-plane-vs-control-plane-whats-the-difference" target="_blank" style="color:blue; text-decoration: none;">Control Plane Vs Date Plane</a>
+</p>
 
 
 <h1 style="color:blue; text-decoration: underline; font-weight: bold;">Database</h1>
