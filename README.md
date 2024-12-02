@@ -21,7 +21,10 @@ TechDiffopedia provides clear and concise explanations of the fundamental differ
     <a href="https://aws.amazon.com/compare/the-difference-between-proxy-and-vpn/?trk=faq_card" target="_blank" style="color:blue; text-decoration: none;">Proxy Vs VPN</a>
 </p>
 <p>
-    <a href="https://www.snaplogic.com/blog/data-plane-vs-control-plane-whats-the-difference" target="_blank" style="color:blue; text-decoration: none;">Control Plane Vs Date Plane</a>
+    <a href="https://www.snaplogic.com/blog/data-plane-vs-control-plane-whats-the-difference" target="_blank" style="color:blue; text-decoration: none;">Control Plane Vs Data Plane</a>
+</p>
+<p>
+    <a href="https://www.geeksforgeeks.org/reverse-proxy-vs-load-balancer/" target="_blank" style="color:blue; text-decoration: none;">Reverse Proxy Vs Load Balancer</a>
 </p>
 
 
